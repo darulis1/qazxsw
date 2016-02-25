@@ -110,6 +110,7 @@ namespace AledaShopAdmin
         {
             parametrai parametrai = new parametrai();
             parametrai.ShowDialog();
+            //nieko gero nekomentuoju
         }
     }
 }
